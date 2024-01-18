@@ -16,4 +16,12 @@ body{
 }
 .logo p{
 	font-size: 36px;
+    color: #808080;
+    font-style: normal;
+    font-weight: 800;
+	line-height: normal;
+    padding-left: 20px;
+}
+.logo-name{
+    color: #FF5400;
 }
