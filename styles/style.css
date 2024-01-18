@@ -1,0 +1,19 @@
+body{
+	max-width: 1170px;
+	font-family: Mulish;
+	padding-right: 135px;
+	padding-left : 135px;
+}
+.logo{
+	min-height: 20px;
+	display: flex;
+	align-items: center;
+
+}
+.logo img{
+	width: 60px;
+	height: 60px
+}
+.logo p{
+	font-size: 36px;
+}
