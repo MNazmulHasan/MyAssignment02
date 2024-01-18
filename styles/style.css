@@ -3,6 +3,7 @@ body{
 	font-family: Mulish;
 	padding-right: 135px;
 	padding-left : 135px;
+    margin: 0 auto;
 }
 .logo{
 	min-height: 20px;
