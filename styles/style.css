@@ -51,3 +51,10 @@ body{
 .home{
     color: #FF5400;
 }
+
+.banner{
+    background-image: url(../images/banner.png);
+    height: 500px;
+    width: 1170px;
+    background-repeat: no-repeat;
+}
